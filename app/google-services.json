@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577625444161",
+    "project_id": "pcbuilder-6b2f0",
+    "storage_bucket": "pcbuilder-6b2f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577625444161:android:c174d32924df8ad9809bc0",
+        "android_client_info": {
+          "package_name": "com.example.pcbuilder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDklckvHKzubQom41mo-cPg6UVVvk_n3CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
